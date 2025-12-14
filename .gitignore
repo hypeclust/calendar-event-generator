@@ -13,14 +13,17 @@ credentials.json
 token.json
 client_secret.json
 *.ics
+.env
+
+# Go workspace
+go.work
+go.work.sum
 
 # IDEs and Editors
 .idea/
 .vscode/
 *.swp
 *.swo
-.DS_Store
-Thumbs.db
 
 # OS specific
 .DS_Store

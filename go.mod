@@ -1,14 +1,16 @@
 module github.com/monil/calendar-event-generator
 
-go 1.24
+go 1.24.0
+
+toolchain go1.24.11
 
 require (
 	github.com/arran4/golang-ical v0.3.2
 	github.com/charmbracelet/huh v0.8.0
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/spf13/cobra v1.10.2
-	golang.org/x/oauth2 v0.33.0
-	google.golang.org/api v0.257.0
+	golang.org/x/oauth2 v0.32.0
+	google.golang.org/api v0.239.0
 )
 
 require (
