@@ -18,6 +18,7 @@ client_secret.json
 # Go workspace
 go.work
 go.work.sum
+go.sum
 
 # IDEs and Editors
 .idea/
