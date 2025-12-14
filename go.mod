@@ -1,8 +1,6 @@
 module github.com/monil/calendar-event-generator
 
-go 1.24.0
-
-toolchain go1.24.11
+go 1.24
 
 require (
 	github.com/arran4/golang-ical v0.3.2
