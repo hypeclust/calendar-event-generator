@@ -1,0 +1,29 @@
+{
+    "format": "daterange",
+    "events": [
+        {
+            "name": "Multi-day Conference",
+            "start_date": "2025-12-20",
+            "end_date": "2025-12-22",
+            "all_day": true,
+            "description": "Annual conference",
+            "location": "Convention Center"
+        },
+        {
+            "name": "Team Offsite",
+            "start_date": "2026-01-15",
+            "end_date": "2026-01-17",
+            "start_time": "09:00",
+            "end_time": "18:00",
+            "description": "Quarterly offsite",
+            "location": "Mountain Resort"
+        },
+        {
+            "name": "Holiday Break",
+            "start_date": "2025-12-24",
+            "end_date": "2026-01-01",
+            "all_day": true,
+            "description": "Office closed"
+        }
+    ]
+}

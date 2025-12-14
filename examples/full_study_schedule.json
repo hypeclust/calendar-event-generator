@@ -1,0 +1,62 @@
+{
+  "week_1": [
+    {
+      "event_name": "Generic Project 1: Planning",
+      "date": "2025-12-01",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Initial planning phase",
+      "useful_links": [
+        "https://example.com/planning"
+      ]
+    },
+    {
+      "event_name": "Generic Project 1: Design",
+      "date": "2025-12-02",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Design architecture",
+      "useful_links": [
+        "https://example.com/design"
+      ]
+    },
+    {
+      "event_name": "Generic Project 1: Implementation",
+      "date": "2025-12-03",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Core implementation",
+      "useful_links": [
+        "https://example.com/impl"
+      ]
+    }
+  ],
+  "week_2": [
+    {
+      "event_name": "Generic Project 1: Testing",
+      "date": "2025-12-08",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Unit and integration testing",
+      "useful_links": [
+        "https://example.com/testing"
+      ]
+    },
+    {
+      "event_name": "Generic Project 1: Deployment",
+      "date": "2025-12-09",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Deploy to staging",
+      "useful_links": [
+        "https://example.com/deploy"
+      ]
+    }
+  ],
+  "week_3": [
+    {
+      "event_name": "Generic Project 2: Research",
+      "date": "2025-12-15",
+      "time": "09:00am – 11:00am",
+      "topic_details": "Market research",
+      "useful_links": [
+        "https://example.com/research"
+      ]
+    }
+  ]
+}

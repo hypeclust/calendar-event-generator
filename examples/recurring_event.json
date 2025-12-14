@@ -1,0 +1,43 @@
+{
+    "format": "recurring",
+    "events": [
+        {
+            "name": "Daily Recurring Event",
+            "start_time": "09:00",
+            "duration": "15m",
+            "description": "Daily sync",
+            "location": "Online Meeting",
+            "recurrence": {
+                "frequency": "DAILY",
+                "until": "2025-12-31",
+                "exclude_weekends": true
+            }
+        },
+        {
+            "name": "Weekly Recurring Event",
+            "start_date": "2025-12-09",
+            "start_time": "14:00",
+            "duration": "1h",
+            "description": "Weekly review session",
+            "recurrence": {
+                "frequency": "WEEKLY",
+                "by_day": [
+                    "FR"
+                ],
+                "count": 10
+            }
+        },
+        {
+            "name": "Monthly Recurring Event",
+            "start_date": "2025-12-01",
+            "start_time": "10:00",
+            "end_time": "12:00",
+            "description": "Monthly planning session",
+            "recurrence": {
+                "frequency": "MONTHLY",
+                "interval": 1,
+                "count": 6
+            }
+        }
+    ]
+}
